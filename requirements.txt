@@ -1,0 +1,14 @@
+streamlit
+langchain-core
+langchain-community
+langchain-ollama
+langchain-openai
+langchain-google-genai
+langchain-chroma
+langchain-text-splitters
+chromadb
+pypdf
+docx2txt
+pymongo
+requests
+pysqlite3-binary
