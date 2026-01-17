@@ -1,4 +1,4 @@
-# Affordable Organics AI Assistant (RAG Application)
+# AI Assistant 
 
 This is a Retrieval-Augmented Generation (RAG) AI application built with **Streamlit** and **LangChain**. It allows users to ingest documents (PDF, DOCX, TXT, or Google Docs), creates a searchable knowledge base using embeddings, and allows users to chat with the documents using an AI model.
 
