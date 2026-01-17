@@ -24,7 +24,7 @@ from google_doc_loader import load_google_doc
 st.set_page_config(page_title="Affordable Organics AI Assistant", layout="wide")
 
 # Title and Description
-st.title("🌱 Affordable Organics AI Assistant")
+st.title("AI Assistant")
 st.markdown("Your autonomous agent for knowledge retrieval and document analysis.")
 
 def process_and_store(docs):
